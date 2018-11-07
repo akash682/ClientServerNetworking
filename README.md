@@ -16,19 +16,19 @@ Following are the steps to run the code:
 	a) Open server.java . Right click on java file and Run as -> Java applications
 	b) Open Client.java . Right click on java file and Run as -> Java applications
 You can toggle between client and server terminal using terminal icon at bottom right. Test the program giving inputs. 
-Make sure you terminate both client and server before grading next question. You can click on red square icon to terminate terminal one by one. 
+Make sure you terminate both client and server before going to next program. You can click on red square icon to terminate terminal one by one. 
 
 7) For Question two, go to(click on) edu.uta.distributed.multithreaded package.
 	a) Open server.java . Right click on java file and Run as -> Java applications
 	b) Open Client.java . Right click on java file and Run as -> Java applications
 The program will automatically create 30 client threads and randomly choose the client commands.  The Server terminal will display how different client request are being handled. 
-Make sure you terminate both client and server before grading next question. You can click on red square icon to terminate terminal one by one. 
+Make sure you terminate both client and server before going to next program.  You can click on red square icon to terminate terminal one by one. 
 
 8) For Question three, go to(click on) edu.uta.distributed.RPC package.
 	a) Open server_RPC.java . Right click on java file and Run as -> Java applications
 	b) Open Client_RPC.java . Right click on java file and Run as -> Java applications
 You can toggle between client and server terminal using terminal icon at bottom right. Test the program giving inputs (1,2,3,4,5). 
-Make sure you terminate both client and server before grading next question. You can click on red square icon to terminate terminal one by one.
+Make sure you terminate both client and server before going to next program.  You can click on red square icon to terminate terminal one by one.
 
 9) For Question three, go to(click on) edu.uta.distributed.bonus package.
 	a) Open Server.java . Right click on java file and Run as -> Java applications (You dont need to run the code as it is unnecessary)
